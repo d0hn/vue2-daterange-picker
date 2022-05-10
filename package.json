@@ -26,6 +26,7 @@
     "unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "sass": "^1.51.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
@@ -53,7 +54,6 @@
     "eslint-plugin-vue": "^6.0.1",
     "markdown-it-footnote": "^3.0.2",
     "mockdate": "^2.0.5",
-    "node-sass": "^4.11.0",
     "sass-loader": "^10.1.1",
     "vue-template-compiler": "^2.6.10",
     "vuepress": "^1.2",
